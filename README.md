@@ -1,2 +1,2 @@
 # LASSO-
-Implementing and testing LASSO regression in python
+Implementing, deriving, and testing LASSO regression in python
